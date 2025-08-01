@@ -2,6 +2,10 @@
 
 A C# WinForms application that generates AI-friendly prompts from Git diffs to help create meaningful commit messages using ChatGPT or other AI assistants.
 
+<img width="810" height="472" alt="image" src="https://github.com/user-attachments/assets/9e480396-2152-4cd6-a37d-97faab20c402" />
+
+
+
 ## 🚀 Features
 
 - **Git Diff Analysis**: Extract changes between current branch and origin/main
