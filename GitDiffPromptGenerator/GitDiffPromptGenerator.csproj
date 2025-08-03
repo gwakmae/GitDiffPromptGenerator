@@ -14,4 +14,9 @@
     <Content Include="ChatGPT Image 2025년 8월 1일 오후 09_09_52.ico" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="LibreTranslate" Version="1.0.1" />
+    <PackageReference Include="LibreTranslate.Net" Version="1.0.1" />
+  </ItemGroup>
+
 </Project>
